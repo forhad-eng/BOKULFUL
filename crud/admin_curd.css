@@ -1,0 +1,11 @@
+body
+{
+    background-image: linear-gradient( 102.3deg,  rgba(147,39,143,1) 5.9%, rgba(234,172,232,1) 64%, rgba(246,219,245,1) 89% );
+    background-position: center;
+    background-size: cover;
+}
+.Login-box
+{
+    width: 800px;
+    margin: 120px 300px;
+}
