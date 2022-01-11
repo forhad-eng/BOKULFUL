@@ -168,18 +168,18 @@
         <div class="row ">
             <div class="col-md-4 testimonials">
                 <p>I am so much happy to become a part of online nursery chittagong </p>
-               <a href=""><img src="images/SakibCeo.jpg"></a>
-                <p class="user-details"><b>Sakib Al Mahmud</b><br>CEO & Founder of Online Nursery Chittagong</p>
+               <a href=""><img src="images/Forhad.png"></a>
+                <p class="user-details"><b>Forhad Uddin</b><br>Co-Founder of Online Nursery Chittagong</p>
             </div>
             <div class="col-md-4 testimonials">
                 <p>I am so much happy to become a part of online nursery </p>
-               <a href=""><img src="images/SakibCeo.jpg"></a>
-                <p class="user-details"><b>Sakib Al Mahmud</b><br>Head of Member at Online Nursery Chittagong</p>
+               <a href=""><img src="images/abdullah.jpg"></a>
+                <p class="user-details"><b>Forhad Uddin</b><br>Co-Founder of Online Nursery Chittagong</p>
             </div>
             <div class="col-md-4 testimonials">
                 <p>I am so much happy to become a part of online nursery</p>
-                <a href=""><img src="images/SakibCeo.jpg"></a>
-                <p class="user-details"><b>Sakib Al Mahmud</b><br>Head of President at online Nursery Chittagong</p>
+                <a href=""><img src="images/Forhad.png"></a>
+                <p class="user-details"><b>Forhad Uddin</b><br>Head of President at online Nursery Chittagong</p>
             </div>
         </div>
     </div>

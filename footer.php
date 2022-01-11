@@ -4,7 +4,7 @@
     <div class="container text-center">
         <p>FIND US ON SOCIAL MEDIA</p>
         <div class="social-icons">
-            <a href="https://www.facebook.com/facebookapp"><img src="images/facebook%20logo.png"></a>
+            <a href="#"><img src="images/facebook%20logo.png"></a>
             <a href="https://www.instagram.com/"><img src="images/instagram%20logo.png"></a>
             <a href="https://twitter.com/"><img src="images/twitter%20logo.png"></a>
             <a href="https://www.whatsapp.com/"><img src="images/whatsapp%20logo.png"></a>
@@ -28,8 +28,7 @@
             <div class="col-md-4 footer-box">
                 <p><b>CONTACT US</b></p>
                 <p><i class="fa fa-map-marker"></i> Boropol,Halishohor,Ctg</p>
-                <p><i class="fa fa-phone"></i> 01778402398</p>
-                <p><i class="fa fa-envelope-o"></i> mahmud2461@gmail.com</p>
+                <p><i class="fa fa-envelope-o"></i> Abc@gmail.com</p>
             </div>
 
             <div class="col-md-4 footer-box">
@@ -47,10 +46,8 @@
                         <div class="montainer">
                             <label for="uname"><b>Username</b></label>
                             <input type="text" placeholder="Enter Username" id="uname" required>
-
                             <label for="psw"><b>Password</b></label>
                             <input type="password" placeholder="Enter Password" id="psw" required>
-
                             <button type="submit">Login</button>
                             <label>
                                 <input type="checkbox" checked="checked" name="remember"> Remember me
@@ -65,22 +62,19 @@
                 </div>
 
                 <script>
-                    // Get the modal
                     var modal = document.getElementById('id01');
 
-                    // When the user clicks anywhere outside of the modal, close it
                     window.onclick = function(event) {
                         if (event.target === modal) {
                             modal.style.display = "none";
                         }
                     }
                 </script>
-
             </div>
         </div>
         <hr>
-        <p class="copyright">Website created by Abdullah Al Mahmud</p>
-
+        <p class="copyright">Forhad Uddin in colab with Abdullah Al Mahmud</p>
+        <p style="text-align: center;">&copy; 2022 All rights reserved</p>
     </div>
 </section>
 
